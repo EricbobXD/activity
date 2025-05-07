@@ -1,1 +1,23 @@
-
+{
+  "general": [
+    {
+      "id": "kangliang",
+      "name": "康",
+      "title": "副組長",
+      "intro": "",
+      "image": "",
+      "icon": "",
+      "frame": "",
+      "banner": "",
+      "effect": ""
+    }
+  ],
+  "activity-group": [],
+  "teaching-group": [],
+  "equipment-group": [],
+  "photography-group": [],
+  "editing-group": [],
+  "prize-group": [],
+  "assembly-group": [],
+  "promotion-group": []
+}

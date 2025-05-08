@@ -1,11 +1,13 @@
 {
     "general": [
-          {
-          "icon": "https://github.com/EricbobXD/activity/tree/main/static/image/",
-          "image": "https://github.com/EricbobXD/activity/tree/main/static/image/",
+    {
+          "icon": "https://github.com/EricbobXD/activity/tree/main/static/image",
+          "image": "https://github.com/EricbobXD/activity/tree/main/static/image",
           "name": "",
           "title": "",
-          "intro": ""
+          "intro": "",
+          "frame": "",
+          "effect": "blur"
       },
       {
           "icon": "https://github.com/EricbobXD/activity/tree/main/static/image/黃緯紘_icon.jpg",
@@ -21,7 +23,7 @@
           "image": "https://github.com/EricbobXD/activity/tree/main/static/image/游博森_image.jpg",
           "name": "游博森",
           "title": "總召",
-          "intro": "201邊緣人，ENFJ的i人，程式新手和網站終極者，剛開始學C++跟python，只會億點點，正在研究量子力學以及把同學網站寫炸",
+          "intro": "201邊緣人，ENFJ的i人\n程式新手和網站終極者，剛開始學C++跟python，只會億點點\n正在研究量子力學以及如何把同學網站寫炸不讓他發現報錯",
           "frame": "",
           "effect": "blur"
       },

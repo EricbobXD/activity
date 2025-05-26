@@ -116,5 +116,27 @@
           "frame": "",
           "effect": "blur"
       }
+  ],
+  "host-group": [
+      {
+          "id": "10",
+          "icon": "https://raw.githubusercontent.com/EricbobXD/activity/main/static/image/吳宥宣_icon.jpg",
+          "image": "https://raw.githubusercontent.com/EricbobXD/activity/main/static/image/吳宥宣_image.jpg",
+          "name": "吳宥宣",
+          "title": "主持人",
+          "intro": "👾201實驗班Unity終結者，每次操作都是在啟動一場bug召喚儀式。Debug？不，那只是我進入bug地獄迴圈的開端。\n修一個壞三個，救火結果直接點燃整棟樓，Console每天都在用紅字告訴我：你真的不適合寫程式。\n🧠心智年齡穩定在國小四年級，上課基本不是在笑，就是在準備笑的路上，可以從早笑到晚，中午還不用睡覺。\n☕早上紅茶是命，不喝會變成社交版Thanos，直接消失一半理智。\n（紅茶 > 睡覺 > 呼吸 > 功課）\n😐天生臭臉，但只要跟朋友混在一起，就會變得很抽象。\n🌀INFP，大I人一個，但如果和朋友走在一起直接變社交恐怖份子。",
+          "frame": "",
+          "effect": "blur"
+      },
+       {
+          "id": "11",
+          "icon": "https://raw.githubusercontent.com/EricbobXD/activity/main/static/image/潘冠致_icon.jpg",
+          "image": "https://raw.githubusercontent.com/EricbobXD/activity/main/static/image/潘冠致_image.jpg",
+          "name": "潘冠致",
+          "title": "主持人",
+          "intro": "201實驗班之社會組孤兒，不太會講幹話。你們能想到3年前的我其實跟94,672,800秒前的潘冠致一樣是男的嗎？\n目前正在努力讓各方面寫作能力提升，尤其是小論文，不讓什麼賴什麼育什麼鍾的一直駁回我的小論文。未來的目標是打球跟ja Morant 一樣爆扣班上全部人。",
+          "frame": "",
+          "effect": "blur"
+      },
   ]
 }
